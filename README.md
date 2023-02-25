@@ -13,9 +13,12 @@ Here is the [code](https://github.com/tar0dev/HLTPortfolio/blob/main/homework1/H
  
 ## Program #2 Guessing Game
  
- Here is the [code]
+ Here is the [code](https://github.com/tar0dev/HLTPortfolio/blob/main/homework2/HW2.py)
+
+In this assignment we got an introduction to NLTK. We read from a text file that contained the first chapter of an anatomy textbook, preprocessed the text, and calculated the lexical diversity. Then we created a function that would run the guessing game using the top 50 common nouns from the text file. 
  
 
 ## Assignment #3 WordNet
+ [Notebook](https://github.com/tar0dev/HLTPortfolio/blob/main/homework3/WordNet.ipynb) 
  
  In this assignment, we explored using the WordNet library to analyze synsets and used SentiWordNet to output scores in regard to the sentiment of each word. 
