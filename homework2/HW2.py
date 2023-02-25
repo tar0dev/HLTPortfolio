@@ -1,6 +1,8 @@
 #CS 4395
 # Jackie Le
 # NetID: jll180004
+
+
 import sys
 import nltk
 from nltk.corpus import stopwords
